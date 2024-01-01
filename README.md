@@ -17,5 +17,3 @@ A custom URL shortener similar to bitly. Allows the user to generate a shorter l
 - NodeJS
 - MongoDB
 
-## Author
-
